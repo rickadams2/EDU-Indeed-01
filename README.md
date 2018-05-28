@@ -1,5 +1,5 @@
-### RAdeed  
-Ontwikkel een vacaturewebsite die gebruikt wordt door twee actors.  Sollicanten,  werkgevers. Als onderdeel van de Fullstack-repo. 
+### Indeed  
+Ontwikkel een vacaturewebsite die gebruikt wordt door twee actors.  Sollicanten,  werkgevers. Als onderdeel van de Fullstack-repo. Zie https://github.com/rickadams2/fullstackLearnPack/ 
 
 ### Requirements 
 De werkzoekende plaats via zijn account de onderstaande data. De cv wordt als .pdf download als optie aangeboden. De data van de **werkzoekende** is voor dezelfde werkzoekende inzichtelijk via; 
